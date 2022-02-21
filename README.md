@@ -11,16 +11,28 @@ Versions of the code should be tracked on GitHub repositories
 Team Budget Planner should work properly
 
 ## List of technologies used in this project:
-HTML5
-CSS3
-Java Script
-Font Awesome CDN
-Bootstrap 5
-swal(sweetalert)
-GitHub
-Visual Studio Code
-Live Server
-JavaScript concepts used:
-functions,Objects, arrays, variables, local storage, JSON.parse(), DOM, loops.
+1. HTML5
+1. CSS3
+1. Java Script
+1. Font Awesome CDN
+1. Bootstrap 5
+1. swal(sweetalert)
+1. GitHub
+1. Visual Studio Code
+1. Live Server
 
-## App Screenshot:
+## JavaScript concepts used:
+functions,Objects, arrays, variables, local storage, JSON.parse(), DOM, loop
+
+## APP Screenshot 
+
+ ![image](https://user-images.githubusercontent.com/84631708/155014322-3187d5ad-d7d0-41ca-876a-59ad117bfcb5.png)
+
+ ![image](https://user-images.githubusercontent.com/84631708/155014470-b0b97a15-3a6f-437d-bc15-a08f01bae898.png)
+ 
+ ![image](https://user-images.githubusercontent.com/84631708/155014523-c0e8f48d-6427-426a-b153-7037fc03de7d.png)
+ 
+ ![image](https://user-images.githubusercontent.com/84631708/155014550-87ad214c-8f26-4445-9106-5c6de5fe1d13.png)
+
+
+ ![image](https://user-images.githubusercontent.com/84631708/155014580-e85f75c6-beaf-4a4f-b0cd-d84ea865bcdb.png)
